@@ -31,7 +31,9 @@ First you should create account at https://cloudflare.com
 After you done the steps above you should login to your x-ui panel
 ```
 ## make config
+
 ![696300D0-F55F-46AE-866F-07BBBCEC4A9B_1_201_a](https://user-images.githubusercontent.com/119480978/235960889-5348cb69-0835-4214-acf5-29116236a509.jpeg)
+```
 !!! we have 6 cloudflare ports (443 , 8443 , 2053 , 2083 , 2087 , 2096 )
 
  !! suggested transmition methods are WS and http (not working on cloudflare only direct server)
