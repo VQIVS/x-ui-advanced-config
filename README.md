@@ -47,5 +47,6 @@ After you done the steps above you should login to your x-ui panel
 ## bind your to domain 
 
 ![696300D0-F55F-46AE-866F-07BBBCEC4A9B_1_201_a](https://user-images.githubusercontent.com/119480978/235963947-f53e481f-3449-4c61-961d-57c588a992a8.jpeg)
+add your ssl and certificate path to panel config and after that you can use domain to enter x-ui
 
 
